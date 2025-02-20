@@ -1,0 +1,2 @@
+1) Singleton Design Pattern:
+        -> Used an singleton design pattern technique to check for model status
