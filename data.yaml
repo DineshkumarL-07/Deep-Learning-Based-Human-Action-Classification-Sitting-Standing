@@ -1,0 +1,7 @@
+names:
+- Sitting
+- Standing
+nc: 2
+test: D:\Sitting and Standing Detection\test
+train: D:\Sitting and Standing Detection\train
+val: D:\Sitting and Standing Detection\val
